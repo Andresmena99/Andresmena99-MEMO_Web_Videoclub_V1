@@ -12,5 +12,5 @@ El fichero *Memoria.pdf* contiene detalles de la implementación, capturas de pa
 
 Realizado con: [Eric Morales](https://github.com/Erichgh)
 
-[Instrucciones de despliegue](https://github.com/MEMO_Web_Videoclub_V1/wiki)
+[Instrucciones de despliegue](https://github.com/Andresmena99/MEMO_Web_Videoclub_V1/wiki)
 
